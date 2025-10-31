@@ -1,0 +1,20 @@
+{
+  "name": "NabiCoin Token List",
+  "logoURI": "https://raw.githubusercontent.com/NabiCoin-NBC/assets/master/blockchains/smartchain/assets/0xfaE12B0f68190Fc31813F285F9c9146A72ECF5F4/logo.png",
+  "timestamp": "2025-01-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xfaE12B0f68190Fc31813F285F9c9146A72ECF5F4",
+      "name": "NabiCoin",
+      "symbol": "NBC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/NabiCoin-NBC/assets/master/blockchains/smartchain/assets/0xfaE12B0f68190Fc31813F285F9c9146A72ECF5F4/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
